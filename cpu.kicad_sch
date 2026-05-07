@@ -605,8 +605,28 @@
 		)
 		(uuid "a0dd7180-e750-4f45-9403-73d675440a84")
 	)
-	(label "PD"
-		(at 186.69 97.79 0)
+	(label "GND"
+		(at 173.99 83.82 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b9b75127-7bbc-4d66-9134-12c1c62edcd6")
+	)
+	(label "PWR"
+		(at 161.29 96.52 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "db4526f8-6433-48d5-a2b9-19ceda6c0400")
+	)
+	(label "PD-CMOS"
+		(at 182.88 97.79 0)
 		(effects
 			(font
 				(size 1.27 1.27)
