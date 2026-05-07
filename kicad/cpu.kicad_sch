@@ -470,7 +470,7 @@
 		)
 		(uuid "e6d6fcfe-dc3c-49ba-bdd6-b6a1960300e4")
 	)
-	(label "Parallel Unit"
+	(label "Execution Unit"
 		(at 60.96 72.39 0)
 		(effects
 			(font
