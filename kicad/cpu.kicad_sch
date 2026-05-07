@@ -9,6 +9,7 @@
 		(date "2026-05-06")
 		(rev "1.0.0")
 		(company "A.E.")
+		(comment 1 "This design is a reference, it is not meant to be directly used in KiCad.")
 	)
 	(lib_symbols)
 	(rectangle
