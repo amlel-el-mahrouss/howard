@@ -400,7 +400,7 @@
 		(uuid "52a5b60d-8fd2-4b5c-920b-95607e23990c")
 	)
 	(label "Power Mgmt Chip"
-		(at 101.6 99.06 0)
+		(at 101.6 81.28 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -420,7 +420,7 @@
 		(uuid "5ed889d9-8af1-4666-8b39-6e469015def1")
 	)
 	(label "Direct Memory Access Chip"
-		(at 67.31 99.06 0)
+		(at 69.85 81.28 0)
 		(effects
 			(font
 				(size 1.27 1.27)
